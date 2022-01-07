@@ -70,11 +70,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ----
-##Missing node_modules
+## Missing node_modules
 
 npm install react-scripts 
 
-##API
+## API
 
 https://www.coingecko.com/en/api/documentation
 
